@@ -1,0 +1,4 @@
+ssh-keygen -t rsa -C "yuqian2015@163.com"
+
+git clone git@github.com:yuqian99/helloworld.git
+
